@@ -1,0 +1,10 @@
+/* Tailwind CSS v3 - Traditional directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles */
+body {
+  margin: 0;
+  min-height: 100vh;
+}
